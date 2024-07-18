@@ -4,9 +4,9 @@
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Murilo de Sousa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muri01&color=yellow" alt="Profile views" /> </p>
 
-- 👨‍💻 Web Developer & Instructor focused on helping people start programming 
+- 👨‍💻 Instructor focused on helping people start programming 
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, Scratch**
 
 
 
@@ -50,7 +50,7 @@
 </p>
 
 <!--
-
+PARA AJUSTAR DEPOIS
 <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
 
 
